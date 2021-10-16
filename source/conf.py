@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'data-journal'
+project = 'Justin Napolitano Portfolio'
 copyright = '2021, Justin Napolitano'
 author = 'Justin Napolitano'
 
