@@ -1,0 +1,3 @@
+[submodule "content/posts/sup-court-postgres-post"]
+	path = content/posts/sup-court-postgres-post
+	url = https://github.com/justin-napolitano/sup-court-postgres-post.git
