@@ -22,6 +22,13 @@ seoSecondaryKeywords:
   - technical blog
   - build automation
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses on building and maintaining a personal website and technical blog using the
+  Sphinx static site generator, with emphasis on site structure, content management, build
+  automation, and deployment via GitHub Pages, which aligns closely with 'Static' family description
+  and example_slugs.
 ---
 
 # Technical Overview of Justin Napolitano's Personal Website Project
@@ -62,3 +69,4 @@ The `conf.py` configuration file sets project metadata, theme details, and build
 ## Summary
 
 This project is a straightforward, maintainable personal website built on Sphinx, optimized for technical content presentation. It balances simplicity with extensibility, enabling ongoing content development and deployment with minimal overhead.
+
