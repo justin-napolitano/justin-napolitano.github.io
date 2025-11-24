@@ -1,12 +1,28 @@
 ---
-slug: "github-justin-napolitano.github.io"
-title: "justin-napolitano.github.io"
-repo: "justin-napolitano/justin-napolitano.github.io"
-githubUrl: "https://github.com/justin-napolitano/justin-napolitano.github.io"
-generatedAt: "2025-11-23T09:12:15.782494Z"
-source: "github-auto"
+slug: github-justin-napolitano.github.io
+title: Personal Website and Technical Blog Built with Sphinx and GitHub Pages
+repo: justin-napolitano/justin-napolitano.github.io
+githubUrl: https://github.com/justin-napolitano/justin-napolitano.github.io
+generatedAt: '2025-11-23T09:12:15.782494Z'
+source: github-auto
+summary: >-
+  Overview of a personal website project using Sphinx static site generator with automated builds
+  and GitHub Pages deployment.
+tags:
+  - sphinx
+  - static-site-generator
+  - github-pages
+  - personal-website
+  - technical-blog
+  - build-automation
+seoPrimaryKeyword: Sphinx personal website
+seoSecondaryKeywords:
+  - static site generator
+  - GitHub Pages
+  - technical blog
+  - build automation
+seoOptimized: true
 ---
-
 
 # Technical Overview of Justin Napolitano's Personal Website Project
 
