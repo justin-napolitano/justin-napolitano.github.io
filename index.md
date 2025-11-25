@@ -1,13 +1,13 @@
 ---
 slug: github-justin-napolitano.github.io
-title: Personal Website and Technical Blog Built with Sphinx and GitHub Pages
+title: Technical Overview of My Sphinx-Based Personal Website
 repo: justin-napolitano/justin-napolitano.github.io
 githubUrl: https://github.com/justin-napolitano/justin-napolitano.github.io
 generatedAt: '2025-11-23T09:12:15.782494Z'
 source: github-auto
 summary: >-
-  Overview of a personal website project using Sphinx static site generator with automated builds
-  and GitHub Pages deployment.
+  Explore the structure and implementation of my personal website built with
+  Sphinx for managing technical content and documentation.
 tags:
   - sphinx
   - static-site-generator
@@ -15,20 +15,29 @@ tags:
   - personal-website
   - technical-blog
   - build-automation
-seoPrimaryKeyword: Sphinx personal website
-seoSecondaryKeywords:
   - static site generator
-  - GitHub Pages
-  - technical blog
-  - build automation
+  - documentation
+  - github pages
+  - makefile
+  - markdown
+  - html
+seoPrimaryKeyword: sphinx personal website
+seoSecondaryKeywords:
+  - static site management
+  - technical blog setup
+  - documentation workflow
+  - content organization
+  - site generation automation
 seoOptimized: true
 topicFamily: static
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses on building and maintaining a personal website and technical blog using the
-  Sphinx static site generator, with emphasis on site structure, content management, build
-  automation, and deployment via GitHub Pages, which aligns closely with 'Static' family description
-  and example_slugs.
+  The post focuses on building and maintaining a personal website and technical
+  blog using the Sphinx static site generator, with emphasis on site structure,
+  content management, build automation, and deployment via GitHub Pages, which
+  aligns closely with 'Static' family description and example_slugs.
+kind: project
+id: github-justin-napolitano.github.io
 ---
 
 # Technical Overview of Justin Napolitano's Personal Website Project
