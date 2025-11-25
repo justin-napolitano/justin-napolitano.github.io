@@ -1,19 +1,30 @@
 ---
 slug: github-justin-napolitano-github-io
 id: github-justin-napolitano-github-io
-title: Justin Napolitano Personal Website
+title: Personal Website Source Code with Python and Sphinx
 repo: justin-napolitano/justin-napolitano.github.io
 githubUrl: https://github.com/justin-napolitano/justin-napolitano.github.io
 generatedAt: '2025-11-24T21:35:22.312Z'
 source: github-auto
 summary: >-
-  This repository hosts the source code and content for my personal website,
-  built primarily with Python and Sphinx documentation tools. It serves as a
-  portfolio and project showcase platform.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore the source code for a personal portfolio website built with Python and
+  Sphinx, featuring static site generation and documentation management.
+tags:
+  - python
+  - sphinx
+  - static site generation
+  - documentation
+  - makefile
+  - docker
+  - github pages
+seoPrimaryKeyword: python sphinx personal website
+seoSecondaryKeywords:
+  - static site tools
+  - documentation management
+  - build automation
+  - portfolio website
+  - project showcase
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
