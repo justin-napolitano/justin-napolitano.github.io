@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/justin-napolitano.github.io
 generatedAt: '2025-11-24T21:35:22.312Z'
 source: github-auto
 summary: >-
-  Explore the source code for a personal portfolio website built with Python and
-  Sphinx, featuring static site generation and documentation management.
+  Explore the source code for a personal website built with Python and Sphinx,
+  featuring static site generation and documentation management.
 tags:
   - python
   - sphinx
@@ -17,13 +17,13 @@ tags:
   - makefile
   - docker
   - github pages
-seoPrimaryKeyword: python sphinx personal website
+seoPrimaryKeyword: personal website source code
 seoSecondaryKeywords:
+  - sphinx documentation tools
   - static site tools
-  - documentation management
   - build automation
-  - portfolio website
-  - project showcase
+  - GitHub Pages deployment
+  - portfolio showcase
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
